@@ -10,7 +10,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: '工程化',
         items: [
-          {text: 'webpack', link:'/engineering/wewbpack'}
+          {text: 'webpack', link:'/engineering/webpack'}
         ]
       }
     ],
